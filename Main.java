@@ -1,5 +1,5 @@
 package sizz8k.com.company;
-
+//Comment typo
 public class Main {
 
 
@@ -25,6 +25,7 @@ public class Main {
             System.out.println("pierwsza zmiana");
             System.out.println("");
             System.out.println(".");
+
 
         }
 	// write your code here
