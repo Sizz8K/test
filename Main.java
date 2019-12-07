@@ -9,6 +9,22 @@ public class Main {
             System.out.println("pierwsza zmiana");
             System.out.println("");
             System.out.println(".");
+            System.out.println(s);
+            System.out.println("pierwsza zmiana");
+            System.out.println("");
+            System.out.println(".");
+            System.out.println(s);
+            System.out.println("pierwsza zmiana");
+            System.out.println("");
+            System.out.println(".");
+            System.out.println(s);
+            System.out.println("pierwsza zmiana");
+            System.out.println("");
+            System.out.println(".");
+            System.out.println(s);
+            System.out.println("pierwsza zmiana");
+            System.out.println("");
+            System.out.println(".");
 
         }
 	// write your code here
