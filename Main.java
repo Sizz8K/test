@@ -2,6 +2,7 @@ package sizz8k.com.company;
 //Comment typo 6666
 public class Main {
  //TODO JUZ ZA CHWILE KONIEC ZAJEC ;-)
+	// ho ho ho
 
     public static void main(String[] args) {
         for (String s : args){
