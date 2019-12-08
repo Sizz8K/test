@@ -21,6 +21,8 @@ public class Main {
             System.out.println(s);
             System.out.println("pierwsza zmiana");
             System.out.println("");
+            System.out.println("nowe zmiany");
+            System.out.println("helo");
             System.out.println(".");
             System.out.println(s);
             System.out.println("pierwsza zmiana");
