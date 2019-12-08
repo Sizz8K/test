@@ -3,7 +3,7 @@ package sizz8k.com.company;
 public class Main {
  //TODO JUZ ZA CHWILE KONIEC ZAJEC ;-)
 	// ho ho ho
-
+//TODO zmiana w testowy
     public static void main(String[] args) {
         for (String s : args){
             System.out.println(s);
